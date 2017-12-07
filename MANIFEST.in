@@ -1,0 +1,2 @@
+include LICENSE *.txt *.py *.cfg .gitignore
+recursive-include tests *.py
